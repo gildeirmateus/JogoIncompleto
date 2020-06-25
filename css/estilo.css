@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+canvas{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    border: 1px solid black;
+    background-image: url('../images/6aRAd.png');
+    background-repeat: repeat;
+    background-color: rgba(48, 45, 45, 0.808);
+}
